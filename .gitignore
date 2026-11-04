@@ -1,0 +1,5 @@
+# local backup of outputs/, not part of the project
+billtakehome.zip
+
+.ipynb_checkpoints/
+__pycache__/
